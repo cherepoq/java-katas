@@ -1,6 +1,6 @@
 package katas.day01;
 
-public class Day04OOP {
+public class Day04OOP_1480_1929_ {
     public static void main(String[] args) {
 
 //        Создать класс Dog (собака), в котором будет 3 поля: String - кличка, String - порода, int - скорость.
