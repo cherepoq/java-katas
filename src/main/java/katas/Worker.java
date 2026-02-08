@@ -1,4 +1,4 @@
-package katas.day01;
+package katas;
 
 public class Worker {
     String name = "";

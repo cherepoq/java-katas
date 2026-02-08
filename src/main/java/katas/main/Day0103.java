@@ -1,4 +1,4 @@
-package katas.day01;
+package katas.main;
 
 public class Day0103 {
     public static void main(String[] args) {

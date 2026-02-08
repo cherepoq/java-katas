@@ -1,4 +1,4 @@
-package katas.day01;
+package katas.main;
 
 public class Day5OOP2_1920_1431 {
 //    Создать класс работник, в котором будет 3 поля: имя, должность и зарплата. В конструкторе с параметрами проинициализировать все поля.
@@ -145,10 +145,19 @@ public class Day5OOP2_1920_1431 {
 //    который по объему больше, чем 2 переданные коробки вместе взятые.
 //
 //    Продемонстрировать работу метода и конструктора в классе Main в методе main().
+//    public static void main(String[] args) {
+//        Box b1 = new Box (5, 3, 7);
+//        Box b2 = new Box (6, 8, 12);
+//
+//        Box sum = b1.combine(b2);
+//
+//        System.out.println("b1: " + b1.info());
+//        System.out.println("b2: " + b2.info());
+//        System.out.println("sum: " + sum.info());
+//
+//        Box bigger = new Box(b1, b2);
+//        System.out.println("bigger than b1+b2: " + bigger.info());
 
 
 
-
-
-
-}
+    }

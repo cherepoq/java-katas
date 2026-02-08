@@ -1,4 +1,4 @@
-package katas.day01;
+package katas;
 
 public class Rect {
 //    Создать класс Rect (прямоугольник), в котором будет 2 поля - длина и ширина. Объявить 3 метода:

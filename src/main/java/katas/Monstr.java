@@ -1,4 +1,4 @@
-package katas.day01;
+package katas;
 
 public class Monstr {
 //    Создать 4 конструктора (пустой, с 1-им параметром, 2-мя и 3-мя).
